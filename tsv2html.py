@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 10 15:27:36 2019
 
-@author: Minjun Park (karmalet@naver.com)
+@author: Minjun Park
 
 """
 
